@@ -3,6 +3,10 @@
 ## Overview
 This Jupyter Notebook performs a cohort analysis on cash requests and associated fees. The objective is to understand user behavior and trends over time, particularly focusing on the types of cash requests and the incidence of issues.
 
+## Presentation Link:
+
+https://docs.google.com/presentation/d/1jP274oIAH_XM_v_7GJ60ciNTlyDagmosH4KR7RcL-yU/edit#slide=id.g2de1a19dbca_1_39
+
 ## Datasets
 1. **Cash Requests Data (`filtered_cash`)**
    - Contains details about individual cash requests.
